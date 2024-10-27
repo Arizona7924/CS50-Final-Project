@@ -1,0 +1,206 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    /*overflow: hidden;*/
+}
+
+.nav-container {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 1vw;
+}
+
+.nav {
+    color: black;
+    padding: 2em;
+}
+
+.nav ul {
+    list-style-type: none;
+    display: inline;
+}
+
+.nav li {
+    display: inline;
+    font-size: 80%;
+    margin: 30px;
+}
+
+.nav a {
+    color: rgb(123, 122, 122);
+    text-decoration: none;
+    font-size: 1.5em;
+    transition: color 0.3s ease;
+}
+
+.nav a.active {
+    color: rgb(28, 28, 28);
+}
+
+.nav a:hover {
+    color: rgb(186, 184, 184);
+}
+
+.nav-footer-container {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 1vw;
+}
+
+.footer-nav {
+    color: black;
+    padding: 1em;
+    padding-left: 50px;
+}
+
+.footer-nav ul {
+    list-style-type: none;
+    display: inline;
+}
+
+.footer-nav li {
+    display: inline;
+    font-size: 80%;
+    margin: 80px;
+}
+
+.footer-nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.5em;
+    transition: color 0.3s ease;
+}
+
+a.logo {
+    padding-left: 50px;
+}
+
+.featured-image {
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+    overflow: hidden;
+}
+
+.featured-image h2 {
+    color: #ffffff;
+    font-size: 6.5em;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    text-transform: capitalize;
+    font-weight: 100;
+    margin: 0px;
+    text-align: left;
+}
+
+.heading .main {
+    font-size: 1em;
+}
+
+/*#sessions .heading {
+    background-color: rgba(214, 154, 81, 0.591);
+}*/
+
+.heading .heading-subscript {
+    font-size: .3em;
+}
+
+.logo {
+    font-family: 'Italianno', cursive;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+}
+
+.logo h1 {
+    font-weight: 100;
+    font-size: 4em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 80px;
+}
+
+.header-logo a {
+    color: black;
+    font-size: 250%;
+}
+
+header {
+    font-size: 14px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+footer {
+    background-color: #a98f3f8a;
+    display: flex;
+    flex-direction: column; /* Stack items vertically */
+    align-items: center;
+    justify-content: center;
+    height: 150px; /* Adjust as necessary */
+    width: 100%;
+    padding: 20px 0; /* Added padding for spacing */
+    color:white; /* Text color for visibility */
+}
+
+.box {
+    display:block;
+    flex-direction: row; /* Align social icons in a row */
+    gap: 20px; /* Space between icons */
+    align-items: center;
+}
+
+.social-media {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    gap: 20px;
+}
+
+
+.instagram-logo {
+    width: 30px; /* Set desired width */
+    height: auto; /* Maintain aspect ratio */
+}
+
+.instagram:hover {
+    transform: translateY(-1px);
+}
+
+.facebook-logo {
+    width: 30px; /* Set desired width */
+    height: auto; /* Maintain aspect ratio */
+}
+
+.facebook:hover {
+    transform: translateY(-1px);
+}
+
+@media (max-width: 768px) {
+    .nav li {
+        margin: 15px; /* Adjust margins for smaller screens */
+        font-size: 100%; /* Consider adjusting font size */
+    }
+
+    .featured-image h2 {
+        font-size: 4em; /* Reduce heading size */
+        padding: 80px 20px; /* Adjust padding */
+    }
+
+    .profile {
+        padding: 40px; /* Adjust padding */
+    }
+}
+

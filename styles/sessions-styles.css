@@ -1,0 +1,107 @@
+#sessions.featured-image {
+    background-image: url(../images/Background/sessions.jpg);
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#sessions.featured-image h2 {
+    margin: 0px;
+    padding: 160px 70px;
+}
+
+.session-wrapper {
+    padding-left: 100px;
+    padding-right: 200px;
+}
+
+.sessions {
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    padding: 10px;
+}
+
+.sessions section {
+    display: flex;
+    flex-direction: row;
+    margin: 100px auto;
+    padding: 20px;
+}
+
+.sessions img {
+    width: 900px;
+    height: 500px;
+    object-fit: cover;
+    margin: 0 20px;
+}
+
+a.session-title {
+    padding-left: 20px;
+    font-weight: 100;
+    font-size: 1.4em;
+    color: black;
+    text-decoration: none;
+}
+
+h1.session-body {
+    font-size: 1em;
+    font-weight: 100;
+}
+
+.session-intro {
+    font-size: 2.2em;
+    font-weight: 100;
+    text-align: center;
+    padding: 20px;
+}
+.session-intro h2 {
+    text-align: center;
+    padding: 20px;
+    text-align: center;
+}
+
+h2 {
+    font-weight: 100;
+    font-family: 'Open Sans', sans-serif;
+    padding: 20px;
+}
+
+h1 {
+    padding-top: 0px;
+    padding: 20px;
+}
+
+.session-intro h2.heading-subscript {
+    font-size: 1em;
+}
+
+.styled-line {
+    border: none;
+    height: 2px;
+    background-color: black;
+    margin: 20px auto;
+    width: 50%;
+    align-items: center;
+}
+
+.after-sessions a {
+    text-decoration: none;
+    color: #FF8C00;
+}
+
+.after-sessions {
+    font-size: 1.4em;
+    padding: 50px 100px 80px 100px;
+    text-align: center;
+}
+
+.after-sessions a:hover {
+    color: black;
+}
+
+@media (min-height: 800px) {
+    #sessions.featured-image h2 {
+        margin: 0px;
+        padding: 250px 30px;
+    }
+}
+

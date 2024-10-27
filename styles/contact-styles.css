@@ -1,0 +1,203 @@
+#contact.featured-image {
+    background-image: url(../images/Background/contact.jpg);
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#contact.featured-image h2 {
+    margin: 0px;
+    padding: 150px 70px;
+}
+
+div.greeting-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 100px;
+}
+
+div.greeting p {
+    font-style: normal;
+    font-weight: 100;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    margin: 15px;
+}
+p.main {
+    color: black;
+    font-size: 2em;
+}
+p.connect {
+    font-size: 1.5em;
+    color: gray;
+}
+
+div.form-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.contact-info {
+    width: 100%;
+    max-width: 600px;
+    margin: 20px;
+    padding: 20px;
+}
+
+.contact-info label {
+    font-size: 15px;
+    padding-bottom: 8px;
+}
+
+.field-first-name label, .field-last-name label {
+    font-size: 12px;
+}
+
+.form-item.name {
+    display: flex;
+    justify-content: space-between;
+}
+
+form {
+    width: 100%;
+}
+
+.field-first-name, .field-last-name {
+    flex: 1;
+    margin-right: 0px;
+}
+
+.field-first-name {
+    margin-right: 35px;
+}
+
+.form-item {
+    margin-bottom: 20px;
+}
+
+fieldset {
+    border: none;
+}
+
+fieldset legend {
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+
+.field-message input {
+    height: 80px;
+}
+
+.contact-info label {
+    display: block;
+    margin-bottom: 5px;
+    position: relative;
+
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+input, textarea, select {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid rgb(128, 128, 128);
+    border-radius: 4px;
+    box-shadow: none;
+    resize: none;
+    margin-bottom: 10px;
+}
+
+input[type=number] {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.field-select select {
+    width: 104%;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.field-select option {
+    color: gray;
+}
+
+.field-select label {
+    margin-top: 15px;
+}
+
+.description-required {
+    color: gray;
+    margin: 2px;
+    font-size: 12px;
+}
+
+.description-optional {
+    color: gray;
+    margin: 2px;
+    font-size: 12px;
+}
+
+.form-submit {
+    background-color: white;
+    color: black;
+    border-color: black;
+    padding: 10px 20px;
+    margin-top: -20px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.form-submit:hover {
+    background-color: black;
+    color: white;
+}
+
+.form-button-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+div.on-submit {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    padding-bottom: 50px;
+}
+
+.form-item {
+    margin-bottom: 20px;
+}
+
+p.result {
+    color: darkgray;
+    font-size: 1.5em;
+    font-family: 'Open Sans', sans-serif;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    opacity: 1;
+    transition: opacity 1s ease;
+}
+
+p.result.fade-out {
+    opacity: 0;
+}
+
+@media (min-height: 800px) {
+    #contact.featured-image h2 {
+        margin: 0px;
+        padding: 200px 70px;
+    }
+}
+

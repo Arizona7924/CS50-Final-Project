@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="keywords" content="photography, portrait, gallery, sessions, Mia Fitz">
+
+        <link href="../styles/styles.css" rel="stylesheet">
+        <link href="../styles/contact-styles.css" rel="stylesheet">
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Italianno&display=swap" rel="stylesheet">
+
+
+        <title>Mia Mangold Photography - Contact</title>
+    </head>
+    <body>
+        <div class="header-container">
+            <header>
+                <div class="header-logo">
+                    <a href="../index.html" class="logo">Mia Mangold &nbsp;Photography</a>
+                </div>
+                <div class="nav-container">
+                    <nav class="nav">
+                        <ul>
+                            <li><a href="../index.html">HOME</a></li>
+                            <li><a href="../pages/gallery.html">GALLERY</a></li>
+                            <li><a href="../pages/sessions.html">SESSIONS</a></li>
+                            <li><a href="../pages/contact.html" class="active">CONTACT</a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </header>
+        </div>
+        <section id="contact" class="featured-image">
+            <h2 class="heading">CONTACT</h2>
+        </section>
+
+        <main>
+            <div class="greeting-wrapper">
+                <div class="greeting">
+                    <p class="main">
+                        I'm excited to hear from you!
+                        <p class="connect">
+                            Let's get connected
+                        </p>
+                    </p>
+                </div>
+            </div>
+            <div class="form-wrapper">
+                <form class="contact-info">
+                    <div class="field-list">
+                        <fieldset class="form-item name">
+                            <legend id="name">
+                                <div class="title">
+                                    <span>Name</span>
+                                    <span class="description-required">(required)</span>
+                                </div>
+                            </legend>
+                            <div class="field-first-name">
+                                <label class="fname">
+                                    <div class="caption-text">First Name</div>
+                                </label>
+                                <input aria-required="true" autocomplete="given-name" name="fname" type="text">
+                            </div>
+                            <div class="field-last-name">
+                                <label class="lname">
+                                    <div class="caption-text">Last Name</div>
+                                </label>
+                                <input aria-required="true" autocomplete="given-name" name="lname" type="text">
+                            </div>
+                        </fieldset>
+                        <div class="form-item email">
+                            <div class="field-email">
+                                <label class="email">
+                                    <span class="caption-text">Email</span>
+                                    <span class="description-required">(required)</span>
+                                </label>
+                                <input aria-required="true" autocomplete="false" name="email" type="email">
+                            </div>
+                        </div>
+                        <div class="form-item phone">
+                            <div class="field-phone">
+                                <label class="phone">
+                                    <span class="caption-text">Phone Number</span>
+                                    <span class="description-required">(required)</span>
+                                </label>
+                                <input aria-required="true" autocomplete="false" name="phone" type="number">
+                            </div>
+                        </div>
+                        <div class="form-item text">
+                            <div class="session">
+                                <label for="session">
+                                    <span class="caption-text">What Type of Session?</span>
+                                    <span class="description-required">(required)</span>
+                                </label>
+                                <input aria-required="false" autocomplete="false" name="session" type="text">
+                            </div>
+                        </div>
+                        <div class="form-item text">
+                            <div class="field-location">
+                                <label class="location">
+                                    <span class="caption-text">Location</span>
+                                    <span class="description-optional">(optional)</span>
+                                </label>
+                                <input aria-required="false" autocomplete="false" name="message" type="text">
+                            </div>
+                        </div>
+                        <div class="form-item text">
+                            <div class="field-message">
+                                <label class="message">
+                                    <span class="caption-text">Message</span>
+                                    <span class="description-optional">(optional)</span>
+                                </label>
+                                <textarea aria-required="false" name="message" rows="4" style="resize: none;"></textarea>
+                            </div>
+                        </div>
+                        <div class="form-item-select">
+                            <div class="field-select">
+                                <label class="select">
+                                    <span class="caption-text">How did you hear about me?</span>
+                                    <span class="description-optional">(optional)</span>
+                                </label>
+                                <select name="found-by">
+                                    <option value="Select option" disabled selected hidden> Select option</option>
+                                    <option value="Family Member">Family member</option>
+                                    <option value="Friend">Friend</option>
+                                    <option value="Instagram">Instagram</option>
+                                    <option value="Facebook">Facebook</option>
+                                    <option value="Google search">Google search</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="on-submit">
+                            <p class="result"></p>
+                        </div>
+                        <div class="form-button-wrapper">
+                            <button type="submit" class="form-submit">
+                                <span class="form-submit-label">SUBMIT</span>
+                            </button>
+                    </div>
+                </form>
+            </div>
+        </main>
+        <footer>
+            <div class="box">
+                <div class="social-media">
+                    <div class="instagram">
+                        <a href="https://www.instagram.com/miamangold_photography/" target="_blank" title="Instagram">
+                            <img src="../images/logos/instagram-logo.png" alt="Instagram Logo" class="instagram-logo">
+                        </a>
+                    </div>
+                    <div class="facebook">
+                        <a href="https://www.facebook.com/mia.mangold.50?_rdr" target="_blank" title="Facebook">
+                            <img src="../images/logos/facebook-logo.png" alt="Facebook Logo" class="facebook-logo">
+                        </a>
+                    </div>
+                </div>
+                <div class="footer-nav-container">
+                    <nav class="footer-nav">
+                        <ul>
+                            <li><a href="../index.html">HOME</a></li>
+                            <li><a href="../pages/gallery.html">GALLERY</a></li>
+                            <li><a href="../pages/sessions.html" class="active">SESSIONS</a></li>
+                            <li><a href="../pages/contact.html">CONTACT</a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </footer>
+        <script src="../scripts/contact.js"></script>
+    </body>
+</html>
