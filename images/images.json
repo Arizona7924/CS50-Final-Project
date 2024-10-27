@@ -1,0 +1,241 @@
+{
+    "imageSets": {
+        "GalentinesSet8": [
+            "../images/Galentines/set8/_67A9972.jpg",
+            "../images/Galentines/set8/_67A9973.jpg",
+            "../images/Galentines/set8/_67A9974.jpg"
+        ],
+
+        "ElisePetitSet1": [
+            "../images/Elise-Petit/set1/_67A2074.jpg",
+            "../images/Elise-Petit/set1/_67A2075.jpg",
+            "../images/Elise-Petit/set1/_67A2076.jpg",
+            "../images/Elise-Petit/set1/_67A2077.jpg",
+            "../images/Elise-Petit/set1/_67A2078.jpg",
+            "../images/Elise-Petit/set1/_67A2079.jpg",
+            "../images/Elise-Petit/set1/_67A2080.jpg",
+            "../images/Elise-Petit/set1/_67A2081.jpg",
+            "../images/Elise-Petit/set1/_67A2082.jpg",
+            "../images/Elise-Petit/set1/_67A2083.jpg"
+
+        ],
+
+        "GalentinesSet1": [
+            "../images/Galentines/set1/_67A9882.jpg",
+            "../images/Galentines/set1/_67A9883.jpg",
+            "../images/Galentines/set1/_67A9884.jpg"
+        ],
+
+        "JamieSamSet3": [
+            "../images/Jamie-and-Sam/set3/_67A3728.jpg",
+            "../images/Jamie-and-Sam/set3/_67A3758.jpg",
+            "../images/Jamie-and-Sam/set3/_67A3758-2.jpg",
+            "../images/Jamie-and-Sam/set3/_67A3808.jpg",
+            "../images/Jamie-and-Sam/set3/_67A3841-2.jpg"
+        ],
+
+        "GalentinesSet6": [
+            "../images/Galentines/set6/_67A9960.jpg",
+            "../images/Galentines/set6/_67A9961.jpg",
+            "../images/Galentines/set6/_67A9962.jpg",
+            "../images/Galentines/set6/_67A9963.jpg",
+            "../images/Galentines/set6/_67A9964.jpg"
+        ],
+
+        "GalentinesSet2": [
+            "../images/Galentines/set2/_67A9890.jpg",
+            "../images/Galentines/set2/_67A9891.jpg",
+            "../images/Galentines/set2/_67A9892.jpg",
+            "../images/Galentines/set2/_67A9893.jpg",
+            "../images/Galentines/set2/_67A9894.jpg",
+            "../images/Galentines/set2/_67A9895.jpg",
+            "../images/Galentines/set2/_67A9896.jpg"
+        ],
+
+        "HopeySelahSet4": [
+            "../images/Hopey-and-Selah/set4/_67A7788.jpg",
+            "../images/Hopey-and-Selah/set4/_67A7814.jpg",
+            "../images/Hopey-and-Selah/set4/_67A7884.jpg",
+            "../images/Hopey-and-Selah/set4/_67A7888.jpg",
+            "../images/Hopey-and-Selah/set4/_67A7894.jpg",
+            "../images/Hopey-and-Selah/set4/_67A7897.jpg",
+            "../images/Hopey-and-Selah/set4/_67A7899-2.jpg",
+            "../images/Hopey-and-Selah/set4/_67A7907.jpg",
+            "../images/Hopey-and-Selah/set4/_67A7910.jpg",
+            "../images/Hopey-and-Selah/set4/_67A7917.jpg"
+        ],
+
+        "JuliaGoodmanBeachSet3": [
+            "../images/Julia-Goodman/beach/set3/_67A1793.jpg",
+            "../images/Julia-Goodman/beach/set3/_67A1800.jpg",
+            "../images/Julia-Goodman/beach/set3/_67A1802.jpg",
+            "../images/Julia-Goodman/beach/set3/_67A1806.jpg",
+            "../images/Julia-Goodman/beach/set3/_67A1814.jpg",
+            "../images/Julia-Goodman/beach/set3/_67A1914.jpg",
+            "../images/Julia-Goodman/beach/set3/_67A2064.jpg",
+            "../images/Julia-Goodman/beach/set3/_67A2068.jpg",
+            "../images/Julia-Goodman/beach/set3/_67A1796.jpg",
+            "../images/Julia-Goodman/beach/set3/_67A1810.jpg"
+        ],
+
+        "JamieSamSet1": [
+            "../images/Jamie-and-Sam/set1/_67A3611.jpg",
+            "../images/Jamie-and-Sam/set1/_67A3643.jpg",
+            "../images/Jamie-and-Sam/set1/_67A3658.jpg",
+            "../images/Jamie-and-Sam/set1/_67A3670.jpg",
+            "../images/Jamie-and-Sam/set1/_67A3695.jpg",
+            "../images/Jamie-and-Sam/set1/_67A3728.jpg",
+            "../images/Jamie-and-Sam/set1/_67A3758.jpg",
+            "../images/Jamie-and-Sam/set1/_67A3808.jpg",
+            "../images/Jamie-and-Sam/set1/_67A3841-2.jpg",
+            "../images/Jamie-and-Sam/set1/_67A3896.jpg",
+            "../images/Jamie-and-Sam/set1/_67A3913.jpg"
+        ],
+
+        "GalentinesSet4": [
+            "../images/Galentines/set4/_67A9923.jpg",
+            "../images/Galentines/set4/_67A9924.jpg",
+            "../images/Galentines/set4/_67A9925.jpg",
+            "../images/Galentines/set4/_67A9926.jpg",
+            "../images/Galentines/set4/_67A9927.jpg"
+        ],
+
+        "JuliaGoodmanBeachSet1": [
+            "../images/Julia-Goodman/beach/set1/_67A1727.jpg",
+            "../images/Julia-Goodman/beach/set1/_67A1728.jpg",
+            "../images/Julia-Goodman/beach/set1/_67A1732.jpg",
+            "../images/Julia-Goodman/beach/set1/_67A1733.jpg",
+            "../images/Julia-Goodman/beach/set1/_67A1735.jpg"
+        ],
+
+        "JamieSamSet2": [
+            "../images/Jamie-and-Sam/set2/_67A3645.jpg",
+            "../images/Jamie-and-Sam/set2/_67A3670-2.jpg",
+            "../images/Jamie-and-Sam/set2/_67A3696-2.jpg",
+            "../images/Jamie-and-Sam/set2/_67A3700.jpg",
+            "../images/Jamie-and-Sam/set2/_67A3714-2.jpg",
+            "../images/Jamie-and-Sam/set2/_67A3758-2.jpg",
+            "../images/Jamie-and-Sam/set2/_67A3841.jpg"
+        ],
+
+        "ChloeOdum": [
+            "../images/Chloe-Odum/set1/_67A0390.jpg",
+            "../images/Chloe-Odum/set1/_67A0389.jpg",
+            "../images/Chloe-Odum/set1/_67A0391.jpg"
+        ],
+
+        "JuliaGoodmanBeachSet2": [
+            "../images/Julia-Goodman/beach/set2/_67A1776.jpg",
+            "../images/Julia-Goodman/beach/set2/_67A1810.jpg",
+            "../images/Julia-Goodman/beach/set2/_67A1868.jpg",
+            "../images/Julia-Goodman/beach/set2/_67A1907.jpg",
+            "../images/Julia-Goodman/beach/set2/_67A1919.jpg",
+            "../images/Julia-Goodman/beach/set2/_67A1950.jpg",
+            "../images/Julia-Goodman/beach/set2/_67A1954.jpg",
+            "../images/Julia-Goodman/beach/set2/_67A1979.jpg",
+            "../images/Julia-Goodman/beach/set2/_67A1996.jpg",
+            "../images/Julia-Goodman/beach/set2/_67A2020.jpg"
+        ],
+
+        "GalentinesSet7": [
+            "../images/Galentines/set7/_67A9963.jpg",
+            "../images/Galentines/set7/_67A9964.jpg",
+            "../images/Galentines/set7/_67A9965.jpg",
+            "../images/Galentines/set7/_67A9966.jpg"
+        ],
+
+        "JuliaGoodmanPark": [
+            "../images/Julia-Goodman/park/set1/_67A2785.jpg",
+            "../images/Julia-Goodman/park/set1/_67A2793.jpg",
+            "../images/Julia-Goodman/park/set1/_67A2817.jpg",
+            "../images/Julia-Goodman/park/set1/_67A2833.jpg",
+            "../images/Julia-Goodman/park/set1/_67A2892.jpg",
+            "../images/Julia-Goodman/park/set1/_67A2915.jpg",
+            "../images/Julia-Goodman/park/set1/_67A3022.jpg",
+            "../images/Julia-Goodman/park/set1/_67A3110.jpg",
+            "../images/Julia-Goodman/park/set1/_67A3113.jpg",
+            "../images/Julia-Goodman/park/set1/_67A3157.jpg",
+            "../images/Julia-Goodman/park/set1/_67A3191.jpg"
+        ],
+
+        "HopeySelahSet2": [
+            "../images/Hopey-and-Selah/set2/_67A7689.jpg",
+            "../images/Hopey-and-Selah/set2/_67A7691.jpg",
+            "../images/Hopey-and-Selah/set2/_67A7694.jpg",
+            "../images/Hopey-and-Selah/set2/_67A7698.jpg",
+            "../images/Hopey-and-Selah/set2/_67A7699.jpg",
+            "../images/Hopey-and-Selah/set2/_67A7705.jpg",
+            "../images/Hopey-and-Selah/set2/_67A7829.jpg",
+            "../images/Hopey-and-Selah/set2/_67A7854.jpg",
+            "../images/Hopey-and-Selah/set2/_67A7856.jpg"
+        ],
+
+        "HopeySelahSet3": [
+            "../images/Hopey-and-Selah/set3/_67A7771-2.jpg",
+            "../images/Hopey-and-Selah/set3/_67A7771.jpg",
+            "../images/Hopey-and-Selah/set3/_67A7803.jpg",
+            "../images/Hopey-and-Selah/set3/_67A7804.jpg",
+            "../images/Hopey-and-Selah/set3/_67A7806-2.jpg",
+            "../images/Hopey-and-Selah/set3/_67A7809.jpg",
+            "../images/Hopey-and-Selah/set3/_67A7812-2.jpg",
+            "../images/Hopey-and-Selah/set3/_67A7812.jpg",
+            "../images/Hopey-and-Selah/set3/_67A7877.jpg",
+            "../images/Hopey-and-Selah/set3/_67A7879.jpg"
+        ],
+        
+        "GalentinesSet5": [
+            "../images/Galentines/set5/_67A9934.jpg",
+            "../images/Galentines/set5/_67A9935.jpg",
+            "../images/Galentines/set5/_67A9936.jpg",
+            "../images/Galentines/set5/_67A9937.jpg",
+            "../images/Galentines/set5/_67A9938.jpg"
+        ],
+
+        "JuliaGoodmanBeachSet4": [
+            "../images/Julia-Goodman/beach/set4/_67A1907.jpg",
+            "../images/Julia-Goodman/beach/set4/_67A1933.jpg",
+            "../images/Julia-Goodman/beach/set4/_67A1979.jpg",
+            "../images/Julia-Goodman/beach/set4/_67A1981.jpg",
+            "../images/Julia-Goodman/beach/set4/_67A1996.jpg",
+            "../images/Julia-Goodman/beach/set4/_67A2006.jpg",
+            "../images/Julia-Goodman/beach/set4/_67A2013.jpg",
+            "../images/Julia-Goodman/beach/set4/_67A2020.jpg",
+            "../images/Julia-Goodman/beach/set4/_67A2023.jpg"
+        ],
+
+        "HopeySelahSet1": [
+            "../images/Hopey-and-Selah/set1/_67A7691.jpg",
+            "../images/Hopey-and-Selah/set1/_67A7698.jpg",
+            "../images/Hopey-and-Selah/set1/_67A7771-2.jpg",
+            "../images/Hopey-and-Selah/set1/_67A7771.jpg",
+            "../images/Hopey-and-Selah/set1/_67A7809.jpg",
+            "../images/Hopey-and-Selah/set1/_67A7812-2.jpg",
+            "../images/Hopey-and-Selah/set1/_67A7812.jpg",
+            "../images/Hopey-and-Selah/set1/_67A7828.jpg",
+            "../images/Hopey-and-Selah/set1/_67A7833.jpg",
+            "../images/Hopey-and-Selah/set1/_67A7884.jpg",
+            "../images/Hopey-and-Selah/set1/_67A7894.jpg",
+            "../images/Hopey-and-Selah/set1/_67A7897.jpg",
+            "../images/Hopey-and-Selah/set1/_67A7899-2.jpg"
+        ],
+
+        "GalentinesSet3": [
+            "../images/Galentines/set3/_67A9907.jpg",
+            "../images/Galentines/set3/_67A9908.jpg",
+            "../images/Galentines/set3/_67A9909.jpg"
+        ],
+
+        "ElisePetitSet2": [
+            "../images/Elise-Petit/set2/_67A2201.jpg",
+            "../images/Elise-Petit/set2/_67A2202.jpg",
+            "../images/Elise-Petit/set2/_67A2203.jpg",
+            "../images/Elise-Petit/set2/_67A2204.jpg",
+            "../images/Elise-Petit/set2/_67A2205.jpg",
+            "../images/Elise-Petit/set2/_67A2206.jpg",
+            "../images/Elise-Petit/set2/_67A2207.jpg",
+            "../images/Elise-Petit/set2/_67A2208.jpg",
+            "../images/Elise-Petit/set2/_67A2209.jpg",
+            "../images/Elise-Petit/set2/_67A2210.jpg"
+        ]
+    }
+}
